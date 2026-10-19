@@ -39,10 +39,12 @@ Both arrangements cover the same three content blocks (LO2 integration, LO2 veri
 
 This is a genuine coordination item, not a wording slip: the guide for Phase 4 contains no source-verification / tool-disclosure quiz content, yet the syllabus's Phase 4 "Learning Evidence" and "Summative Assessment" require exactly that (alongside argument evaluation). A student or a gradebook keyed to the syllabus would expect verification to be assessed in Phase 4, while the guides assess it in Phase 3.
 
-**Resolving it is a structural choice, so it is left to academic coordination.** Two coherent directions:
+**Decision taken: keep Phases 3 and 4 exactly as delivered — content *and* names unchanged.** The phase titles and VLO titles of the guides (which match the OVA scripts) are preserved, and no verification / tool-disclosure content is moved between phases. The divergence from the syllabus's Phase 3–4 split is **documented here for academic coordination** but is **not** acted on in the guides.
 
-- **(A) Align the guides to the syllabus** (recommended if the syllabus is the fixed anchor): rename Guide 3 → "Appraisal of Source Integration in a Research Report"; move the verification / tool-disclosure content from Guide 3 into Guide 4; rename Guide 4 → "Verification of Sources and Evaluation of the Research Argument" and tag it LO2 and 3; re-title the Phase 3 and Phase 4 VLOs to match. This is a content rewrite of Guides 3–4 (and the OVA3/OVA4 scripts), **not** a form edit, so it was **not** applied here.
-- **(B) Keep the guides' split and revise the syllabus's Phase 3–4 names and LO tags** to match them. This changes the syllabus and so is outside the stated constraint; noted only for completeness.
+For the record, the two ways the divergence *could* be reconciled, neither applied:
+
+- **(A) Align the guides to the syllabus**: rename Guide 3 → "Appraisal of Source Integration in a Research Report"; move the verification / tool-disclosure content from Guide 3 into Guide 4; rename Guide 4 → "Verification of Sources and Evaluation of the Research Argument" and tag it LO2 and 3; re-title the Phase 3 and Phase 4 VLOs to match. This is a content rewrite of Guides 3–4 (and the OVA3/OVA4 scripts), not a form edit. Not applied (names are to be preserved).
+- **(B) Keep the guides' split and revise the syllabus's Phase 3–4 names and LO tags** to match them. This changes the syllabus and so is outside the stated constraint. Not applied.
 
 ## 4. Form-level corrections applied to the guides
 
@@ -69,7 +71,7 @@ Jourdan et al. (2023) appears among the four genre-classification stimulus texts
 
 | Priority | Item | Guide(s) | Action |
 |---|---|---|---|
-| Important (coordination) | Phase 3/4 boundary, titles, VLO names, and Phase 4 LO tag diverge between guides/OVAs and the syllabus (§3) | 3, 4 (+ OVA3/4) | Decide direction (A) or (B); not applied (structural). |
+| Important (coordination) | Phase 3/4 boundary, titles, VLO names, and Phase 4 LO tag diverge between guides/OVAs and the syllabus (§3) | 3, 4 (+ OVA3/4) | **Decision: keep Phases 3 & 4 as delivered — content and names unchanged.** Documented for coordination; not applied. |
 | Important | Guide 2 declared learning outcome duplicated Guide 1 | 2 | **Applied** (§4.1). |
 | Important | Document intentional reuse of Jourdan et al. (2023) in Phase 1 | 1 | **Applied** (§4.2). |
 | — (was Critical) | 5-vs-4 phase / 375-vs-500 pt structure | all | Resolved — 5 guides, 500 pts, percentages match (§1). |
@@ -77,4 +79,4 @@ Jourdan et al. (2023) appears among the four genre-classification stimulus texts
 
 ## 6. Conclusion
 
-With the syllabus and all five guides read together, the course is a coherent **5-phase / 500-point** sequence whose points, percentages, evaluation moments, dates, learning-outcome coverage, and (for Phases 1, 2 and 5) phase and VLO names match the syllabus. The two earlier *critical* structural findings fall away. Two form corrections have been applied to Guides 1 and 2. The single substantive item still open is the **Phase 3 / Phase 4 split** (titles, VLO names, and the placement of the verification / tool-disclosure block), which is a structural decision reserved for academic coordination and was therefore not applied to the guides.
+With the syllabus and all five guides read together, the course is a coherent **5-phase / 500-point** sequence whose points, percentages, evaluation moments, dates, learning-outcome coverage, and (for Phases 1, 2 and 5) phase and VLO names match the syllabus. The two earlier *critical* structural findings fall away. Two form corrections have been applied to Guides 1 and 2. The **Phase 3 / Phase 4 split** (titles, VLO names, and the placement of the verification / tool-disclosure block) differs between the guides/OVAs and the syllabus; by decision, **Phases 3 and 4 are kept exactly as delivered — content and names unchanged** — and the divergence is recorded here for academic coordination rather than resolved in the guides.
